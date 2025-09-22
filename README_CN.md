@@ -20,7 +20,7 @@ ROH 固件、协议文档和桌面端应用
   - [roh_registers_v2.h](protocol/roh_registers_v2.h)/[roh_registers_v2.py](protocol/roh_registers_v2.py): C，C++ & Python的寄存器定义。
 - *[res](res)*: markdown文件的资源文件
 - *[UserManual](UserManual)*: ROH用户手册
-  - [ROH-LiteS001机器人灵巧手-V1.x.x.pdf](UserManual/ROH-LiteS001机器人灵巧手-V1.0.3.pdf): ROH-LiteS001用户手册。
+  - [ROH-LiteS001机器人灵巧手-V1.x.x.pdf](UserManual/ROH-LiteS001机器人灵巧手-V1.0.4.pdf): ROH-LiteS001用户手册。
 
 ## 固件更新方法
 
